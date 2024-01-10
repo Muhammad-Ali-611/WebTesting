@@ -20,6 +20,7 @@
     <modules>
         <module>Amazon</module>
         <module>Genarate</module>
+        <module>NYPOST</module>
     </modules>
 <dependencyManagement>
     <dependencies>
